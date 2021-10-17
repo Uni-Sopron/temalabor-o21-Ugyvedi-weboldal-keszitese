@@ -1,10 +1,10 @@
 #logo{
     height: 70px;
-    background:#1e5799;
-    background: -moz-linear-gradient(-45deg,  #1e5799 0%, #7db9e8 100%);
-    background: -webkit-linear-gradient(-45deg,  #1e5799 0%,#7db9e8 100%);
-    background: linear-gradient(135deg,  #1e5799 0%,#7db9e8 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 );
+    background: #cccccc;
+    background: -moz-linear-gradient(left,  #cccccc 0%, #eeeeee 100%);
+    background: -webkit-linear-gradient(left,  #cccccc 0%,#eeeeee 100%);
+    background: linear-gradient(to right,  #cccccc 0%,#eeeeee 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cccccc', endColorstr='#eeeeee',GradientType=1 );    
     border-radius: 10px;
     margin-top: 7px;
     padding: 2px;

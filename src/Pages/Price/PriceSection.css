@@ -15,7 +15,7 @@
 #PriceTitle{
     text-align: center;
     font-size: 45px;
-    color: black;
+    color: #fff;
     padding-bottom: 2%;
     font-weight: bold;
 }
@@ -24,6 +24,7 @@
     text-align: justify;
     font-size: 22px;
     font-weight: 550;
+    color: white;
 }
 
 #PriceImg{

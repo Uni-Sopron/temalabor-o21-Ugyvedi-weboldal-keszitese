@@ -1,25 +1,25 @@
 const MenuItems =[
     {
         title:'Rólam',
-        titledeu:'Über mich',
+        titledeu:'Vorstellung',
         url:'/#CV',
         cName:'nav-links'
     },
     {
         title:'Szakterületeim',
-        titledeu:'Meine Dienstleistungen',
+        titledeu:'Fachbereiche',
         url:'/szakteruletek',
         cName:'nav-links'
     },
     {
         title:'Hogyan dolgozom?',
-        titledeu:'Kontakt',
+        titledeu:'Wie arbeite ich?',
         url:'/#HIW',
         cName:'nav-links'
     },
     {
         title:'Munkadíj',
-        titledeu:'Kontakt',
+        titledeu:'Anwaltshonorar',
         url:'/#Price',
         cName:'nav-links'
     },
