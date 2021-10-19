@@ -47,7 +47,7 @@ const Header = (fun)=>{
     return(
         <nav className="NavbarItems">
             <h1 className="Navbar-logo">
-                <Link to="/"><img src="LogoBg2.png" alt="logo" id="logo"/></Link>
+                <Link to="/"><img src="Images/LogoBg2.png" alt="logo" id="logo"/></Link>
             </h1>
             <div className="menu-icon" onClick={ClickSet}>
                 <i className={clicked?"fas fa-times":"fas fa-bars"}></i>
@@ -69,9 +69,9 @@ const Header = (fun)=>{
                                 :
                                 item.title==='Hun'
                                 ?
-                                <img class={item.cName} src="hunFlag.png" alt="hun" onClick={Hun} />
+                                <img class={item.cName} src="Images/Flags/hunFlag.png" alt="hun" onClick={Hun} />
                                 :
-                                <img className={item.cName} id="ger" src="gerFlag.png" alt="ger" onClick={Deu}/>
+                                <img className={item.cName} id="ger" src="Images/Flags/gerFlag.png" alt="ger" onClick={Deu}/>
                             }
                         </li>
                     )
